@@ -1,0 +1,109 @@
+tr{
+    color: white ;
+}
+body{
+    background-image: url(https://static.cdprojektred.com/cms.cdprojektred.com/48f13a15a68d5aa8ca55878801ed8daa145a687c.png);
+    background-attachment: fixed;
+    background-size: 95%;
+    background-position: 0%;
+}
+p{
+    color: lime ;
+    font-family: 'Montserrat', sans-serif;
+}
+abbr {
+    color:dodgerblue ;
+}
+h1{
+    color: white ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    color: white ;
+    font-style: italic;
+}
+h3{
+    color: white ;
+    font-style: italic;
+}
+h4{
+    color: white ;
+    font-style: italic;
+}
+
+img{
+    align-items: right;
+    padding: 22px;
+}
+q{
+    color: white;
+    font-style: italic;
+}
+#id{
+    padding: 10px;
+}
+#jah {
+    color: gold;
+    font-style: italic;
+}
+a{
+    font-style: italic;
+}
+#f{
+    color: yellow;
+}
+html{
+    scroll-behavior: smooth;
+}
+  .akeconsa-udaneles{
+    position: fixed;
+    bottom: 28px;
+    right: 28px;
+    z-index: 9;
+}
+  .akeconsa-udaneles a {
+    height: 42px;
+    width: 42px;
+    text-align: center;
+    background: #151414;
+    display: block;
+    border-radius: 2px;
+}
+  .akeconsa-udaneles a span {
+    color: #f7f0f0;
+    font-size: 30px;
+    line-height: 42px;
+    cursor: pointer;
+}
+button, input, select, textarea {
+    font-family : inherit;
+    font-size   : 100%;
+  }
+form{
+    color: white;
+}
+a:hover{
+    color: yellow;
+}
+li:hover{
+    color: yellow;
+}
+.send{
+    border: none;
+    color: #fff;
+    background: #058cdd;
+    width: 100px;
+    height: 40px;
+    border-radius: 40px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 10px;
+    box-shadow: 0 0 10px 0 rgba(5, 140, 221, .8);
+    transition: 2s;
+    outline: none;
+}
+.send:hover{
+    box-shadow: 0 0 10px 0 rgba(5, 140, 221, .8);
+    outline: none;
+}
+
